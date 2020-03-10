@@ -1,0 +1,7 @@
+01_palm
+02_l
+04_fist_moved
+06_index
+07_ok
+09_c
+22_up

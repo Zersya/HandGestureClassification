@@ -1,0 +1,92 @@
+[
+    {
+        "path": "02_l_1.png",
+        "label": "02_l",
+        "hand_id": "1"
+    },
+    {
+        "path": "02_l_2.png",
+        "label": "02_l",
+        "hand_id": "2"
+    },
+    {
+        "path": "02_l_3.png",
+        "label": "02_l",
+        "hand_id": "3"
+    },
+    {
+        "path": "04_fist_1.png",
+        "label": "04_fist",
+        "hand_id": "1"
+    },
+    {
+        "path": "04_fist_2.png",
+        "label": "04_fist",
+        "hand_id": "2"
+    },
+    {
+        "path": "04_fist_3.png",
+        "label": "04_fist",
+        "hand_id": "3"
+    },
+    {
+        "path": "06_index_1.png",
+        "label": "06_index",
+        "hand_id": "1"
+    },
+    {
+        "path": "06_index_2.png",
+        "label": "06_index",
+        "hand_id": "2"
+    },
+    {
+        "path": "06_index_3.png",
+        "label": "06_index",
+        "hand_id": "3"
+    },
+    {
+        "path": "07_ok_1.png",
+        "label": "07_ok",
+        "hand_id": "1"
+    },
+    {
+        "path": "07_ok_2.png",
+        "label": "07_ok",
+        "hand_id": "2"
+    },
+    {
+        "path": "07_ok_3.png",
+        "label": "07_ok",
+        "hand_id": "3"
+    },
+    {
+        "path": "09_c_1.png",
+        "label": "09_c",
+        "hand_id": "1"
+    },
+    {
+        "path": "09_c_2.png",
+        "label": "09_c",
+        "hand_id": "2"
+    },
+    {
+        "path": "09_c_3.png",
+        "label": "09_c",
+        "hand_id": "3"
+    },
+    {
+        "path": "22_up_1.png",
+        "label": "22_up",
+        "hand_id": "1"
+    },
+    {
+        "path": "22_up_2.png",
+        "label": "22_up",
+        "hand_id": "2"
+    },
+    {
+        "path": "22_up_3.png",
+        "label": "22_up",
+        "hand_id": "3"
+    }
+]
